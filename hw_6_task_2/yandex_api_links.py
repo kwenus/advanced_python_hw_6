@@ -1,4 +1,6 @@
 
+token = 'token'
+
 # all information (GET)
 url_disk_data = 'https://cloud-api.yandex.net/v1/disk/'
 
